@@ -1,1 +1,1 @@
-将自己的文件放到GITHUB上
+create a readme.txt push git 
