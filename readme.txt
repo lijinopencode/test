@@ -1,1 +1,2 @@
-create a readme.txt push git 
+create a readme.txt push git asda
+asd
