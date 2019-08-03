@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//test
 namespace 消息传递
 {
     public class Singleton<T> where T : class, new()
